@@ -1,0 +1,16 @@
+package br.com.abc.javacore.metodo.test;
+
+import br.com.abc.javacore.metodo.classes.Estudante;
+
+public class EstudanteTest {
+	public static void main(String[] args) {
+		Estudante e = new Estudante();
+		e.nome = "Maria";
+		e.idade = 14;
+		e.notas[0] = 8;
+		e.notas[1] = 4;
+		e.notas[2] = 2;
+		e.imprime();
+		
+	}
+}

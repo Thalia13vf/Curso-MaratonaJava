@@ -1,0 +1,10 @@
+package br.com.abc.javacore.associacao.classes.exercicio;
+
+public class Seminario 
+{
+	private String titulo;
+	private Aluno [] alunos;
+	private Professor professor;
+	
+	
+}

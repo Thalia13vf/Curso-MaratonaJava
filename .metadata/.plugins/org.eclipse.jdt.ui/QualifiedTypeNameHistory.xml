@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="br.com.abc.javacore.metodo.classes.Calculadora"/>
+<fullyQualifiedTypeName name="br.com.abc.javacore.metodo.classes.Professor"/>
+<fullyQualifiedTypeName name="br.com.abc.javacore.metodo.classes.Estudante"/>
+<fullyQualifiedTypeName name="br.com.abc.javacore.sobrecargametodos.classes.Funcionario"/>
+<fullyQualifiedTypeName name="br.com.abc.javacore.sobrecargaconstrututores.classes.Estudante"/>
+<fullyQualifiedTypeName name="bc.com.abc.javacore.modificadorestatico.classes.Carro"/>
+<fullyQualifiedTypeName name="bc.com.abc.javacore.modificadorestatico.classes.Cliente"/>
+</qualifiedTypeNameHistroy>

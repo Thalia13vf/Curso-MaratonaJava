@@ -1,0 +1,17 @@
+package br.com.abc.javacore.associacao.classes.exercicio.test;
+
+import br.com.abc.javacore.associacao.classes.exercicio.Aluno;
+import br.com.abc.javacore.associacao.classes.exercicio.Local;
+import br.com.abc.javacore.associacao.classes.exercicio.Professor;
+import br.com.abc.javacore.associacao.classes.exercicio.Seminario;
+
+public class GerenciadorDeSeminarios {
+	public static void main(String[] args) {
+		Aluno a = new Aluno("Ana", 21);
+		Seminario s = new Seminario("Como ser um programador");
+		Professor prof = new Professor("José", "front-end");
+		a.setSeminario(s);
+		a.print();
+		
+	}
+}

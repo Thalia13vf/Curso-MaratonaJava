@@ -1,0 +1,7 @@
+package br.com.abc.javacore.associacao.classes.exercicio.test;
+
+public class GerenciadorDeSeminarios {
+	public static void main(String[] args) {
+		
+	}
+}
