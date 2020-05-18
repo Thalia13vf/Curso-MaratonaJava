@@ -1,8 +1,0 @@
-package br.com.abc.javacore.associacao.classes.exercicio;
-
-public class Aluno {
-	private String nome;
-	private int idade;
-	private Seminario seminario;  // apenas um seminario
-	
-}
